@@ -1,8 +1,8 @@
 # 💫 About Me:
-I am Rajat<br>
-I am a Cloud Consultant with 2 years of hands-on experience in designing, deploying, and automating Microsoft Azure infrastructure. I specialize in building scalable, secure, and reliable cloud solutions using Infrastructure as Code, automation, and modern DevOps practices.
+I am **Rajat**<br>
+I am a **Cloud Consultant** with 2 years of hands-on experience in designing, deploying, and automating Microsoft Azure infrastructure. I specialize in building scalable, secure, and reliable cloud solutions using Infrastructure as Code, automation, and modern DevOps practices.
 
-Currently working at Spektra Systems, I manage Azure and Microsoft 365 environments, including Entra ID, RBAC, PIM, governance, and security best practices. I have strong experience with CI/CD pipelines, containers (Docker, Kubernetes), monitoring, and scripting using PowerShell, Bash, and Azure CLI.
+Currently working at **Spektra Systems**, I manage Azure and Microsoft 365 environments, including Entra ID, RBAC, PIM, governance, and security best practices. I have strong experience with CI/CD pipelines, containers (Docker, Kubernetes), monitoring, and scripting using PowerShell, Bash, and Azure CLI.
 
 I enjoy solving infrastructure challenges, driving automation, and continuously improving cloud platforms. I thrive in fast-paced environments where learning, ownership, and impact matter.
 
